@@ -1,4 +1,4 @@
-class Dog
+
 	def initialize(name)
 		@name=name
 	end
@@ -15,4 +15,3 @@ class Dog
 		puts "woof!"
 	end
 
-end
