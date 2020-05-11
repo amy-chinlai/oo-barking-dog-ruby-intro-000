@@ -3,15 +3,15 @@ class Dog
 		@name=name
 	end
 
-	def .name=(name)
+	def name=(name)
 		@name=name
 	end
 
-	def .name
+	def name
 		@name
 	end
 
-	def .bark
+	def bark
 		puts "woof!"
 	end
 end
