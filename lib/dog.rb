@@ -14,4 +14,3 @@
 	def bark
 		puts "woof!"
 	end
-
